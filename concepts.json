@@ -1,0 +1,246 @@
+[
+  {
+    "id": "maths-fractions",
+    "title": "Fractions",
+    "body": "A fraction tells you how many equal parts of a whole you have. The TOP number (numerator) is how many parts you have. The BOTTOM number (denominator) is how many equal parts the whole is split into.\n\nTo find a fraction OF a number: divide by the bottom, then multiply by the top. So 2/5 of 60 means split 60 into 5 equal groups (each is 12) and take 2 of them (24).\n\nTo compare fractions, make the bottoms match. 2/3 and 3/4 → use 12ths: 8/12 and 9/12, so 3/4 is bigger.",
+    "example": {
+      "question": "What is 3/4 of 20?",
+      "steps": [
+        "Divide by the bottom: 20 ÷ 4 = 5.",
+        "Multiply by the top: 5 × 3 = 15."
+      ],
+      "answer": "15"
+    },
+    "commonMistakes": [
+      "Multiplying first then dividing — works for some numbers but gets messy. Always divide by the bottom first.",
+      "Confusing top and bottom — the top is what you HAVE, the bottom is what the whole is SPLIT into."
+    ],
+    "tags": [
+      "maths",
+      "fractions"
+    ]
+  },
+  {
+    "id": "maths-percentages",
+    "title": "Percentages",
+    "body": "Percent means \"out of 100\". 25% is the same as 25/100, or 1/4. 50% is the same as 1/2. 10% is the same as 1/10.\n\nTo find a percentage of a number, the easiest trick is to find 10% first (divide by 10), then build the answer up. 30% of 40? 10% is 4, so 30% is 4 × 3 = 12.\n\nFor 25% just divide by 4. For 50% just halve. For 1% divide by 100.",
+    "example": {
+      "question": "What is 15% of 80?",
+      "steps": [
+        "10% of 80 = 8.",
+        "5% is half of 10%: 8 ÷ 2 = 4.",
+        "15% = 10% + 5% = 8 + 4 = 12."
+      ],
+      "answer": "12"
+    },
+    "commonMistakes": [
+      "Adding 15 to 80 instead of finding 15% — the % sign means \"out of 100\", not \"add this number\"."
+    ],
+    "tags": [
+      "maths",
+      "percentages"
+    ]
+  },
+  {
+    "id": "maths-place-value",
+    "title": "Place value",
+    "body": "Each digit in a number has a value based on its position. In 3,472 the 3 is THOUSANDS (3,000), the 4 is HUNDREDS (400), the 7 is TENS (70) and the 2 is UNITS (2).\n\nGoing right past the decimal point: tenths, hundredths, thousandths. So in 0.347 the 3 is 3 tenths (3/10), the 4 is 4 hundredths (4/100), the 7 is 7 thousandths.\n\nMoving a digit one place LEFT makes it 10× bigger; one place RIGHT makes it 10× smaller. Multiplying by 10 shifts every digit one place left.",
+    "example": {
+      "question": "What does the 6 mean in 4,602?",
+      "steps": [
+        "Position from the right: units (2), tens (0), hundreds (6)."
+      ],
+      "answer": "600 (six hundreds)"
+    },
+    "tags": [
+      "maths",
+      "place value"
+    ]
+  },
+  {
+    "id": "maths-algebra",
+    "title": "Simple algebra",
+    "body": "In algebra a letter stands for an unknown number. 'n + 3 = 10' means 'something plus 3 makes 10'. To find n, undo the +3 by subtracting 3 from both sides: n = 7.\n\nWhatever you do to one side, do to the other — keep it balanced like a see-saw.\n\nIf you see '3n', that means 3 × n. If n = 4, then 3n = 12.",
+    "example": {
+      "question": "Solve: 2n + 5 = 17",
+      "steps": [
+        "Subtract 5 from both sides: 2n = 12.",
+        "Divide both sides by 2: n = 6."
+      ],
+      "answer": "n = 6"
+    },
+    "tags": [
+      "maths",
+      "algebra"
+    ]
+  },
+  {
+    "id": "maths-ratio",
+    "title": "Ratio",
+    "body": "A ratio compares two amounts. The ratio 2:3 means 'for every 2 of one thing, there are 3 of the other'. The total parts = 2 + 3 = 5.\n\nTo share something in a ratio, work out one part first. 30 sweets shared 2:3 → 5 parts in total → 30 ÷ 5 = 6 per part → one person gets 2 × 6 = 12, the other gets 3 × 6 = 18.",
+    "example": {
+      "question": "Share £24 in the ratio 1:3.",
+      "steps": [
+        "Total parts: 1 + 3 = 4.",
+        "One part: 24 ÷ 4 = 6.",
+        "Shares: 1 × 6 = £6 and 3 × 6 = £18."
+      ],
+      "answer": "£6 and £18"
+    },
+    "tags": [
+      "maths",
+      "ratio"
+    ]
+  },
+  {
+    "id": "english-vocabulary",
+    "title": "Vocabulary",
+    "body": "Read each word's MEANING into a sentence and see if it fits. If you don't know a word, look at the bits — many English words borrow from Latin or Greek. 'Aqua' means water, so 'aquatic' must be water-related.\n\nFor 'closest in meaning' questions, pick the one with the most similar feeling. 'Reluctant' (not wanting to) is closer to 'unwilling' than to 'angry' — both unwilling and reluctant share the same hesitation.",
+    "commonMistakes": [
+      "Picking the first option that sounds vaguely right — read all four before deciding.",
+      "Trusting just one syllable that sounds familiar — the rest of the word matters too."
+    ],
+    "tags": [
+      "english",
+      "vocabulary"
+    ]
+  },
+  {
+    "id": "english-comprehension",
+    "title": "Reading comprehension",
+    "body": "Read the passage TWICE before looking at the question. The first read is for the story; the second is to spot detail.\n\nFor 'what does this suggest' questions, look for clues — words like 'reluctantly', 'whispered', 'glared' carry feeling that explicit sentences don't. The answer is rarely written out directly; it's hinted at.\n\nIf you're stuck, go back and underline the part of the passage that supports the answer. If you can't find supporting text, the answer isn't right.",
+    "commonMistakes": [
+      "Answering from what you THINK should be true rather than what the passage SAYS."
+    ],
+    "tags": [
+      "english",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "english-punctuation",
+    "title": "Punctuation",
+    "body": "Capital letters: start of a sentence, proper nouns (names of people/places), the pronoun 'I'.\n\nFull stop ends a complete sentence. Question mark ends a question. Exclamation mark ends a shout or a surprise.\n\nApostrophes: for missing letters (don't = do not) AND for ownership (Tom's bag = the bag of Tom).\n\nSpeech marks: around the exact words someone says. Punctuation INSIDE the speech marks if it belongs to the spoken sentence.",
+    "example": {
+      "question": "Punctuate: tom said i am tired",
+      "steps": [
+        "Capitalise Tom (a name) and the start of speech.",
+        "Speech marks around what Tom said.",
+        "Comma before the speech opens; full stop inside the marks."
+      ],
+      "answer": "Tom said, \"I am tired.\""
+    },
+    "tags": [
+      "english",
+      "punctuation"
+    ]
+  },
+  {
+    "id": "english-spelling",
+    "title": "Spelling",
+    "body": "Two famous rules:\n• 'i before e except after c' (when the sound is 'ee'). So 'believe' but 'receive'.\n• Doubling the consonant: 'run' + 'ing' → 'running'; 'hop' + 'ed' → 'hopped'. Only when the last letter is a consonant and the vowel before it is short.\n\nFor tricky words, break them into syllables and say them slowly: 'sep-a-rate', 'def-i-nite-ly', 'nec-es-sary'. Once you've heard the parts, the spelling makes more sense.",
+    "commonMistakes": [
+      "'definately' — it's 'definitely' (think 'definite' + 'ly').",
+      "'recieve' — 'i before e except after c' → 'receive'."
+    ],
+    "tags": [
+      "english",
+      "spelling"
+    ]
+  },
+  {
+    "id": "english-grammar",
+    "title": "Grammar",
+    "body": "Word classes:\n• NOUN — a person, place or thing (Tom, London, dog).\n• VERB — an action or state (run, is, think).\n• ADJECTIVE — describes a noun (red, tired, fast).\n• ADVERB — describes a verb (quickly, gently, never).\n\nTenses: PAST (ran), PRESENT (run/runs), FUTURE (will run). Subject and verb must agree: 'she runs', not 'she run'.\n\nActive vs passive: 'The dog chased the cat' is active. 'The cat was chased by the dog' is passive — the THING that the action happens to comes first.",
+    "tags": [
+      "english",
+      "grammar"
+    ]
+  },
+  {
+    "id": "verbal-hidden-words",
+    "title": "Hidden words",
+    "body": "A four-letter word is hiding across the JOIN between two adjacent words. Read across the gap, ignoring the space. 'Please be very quiet' → 'be' + 'very' shares the letters 'b-e-v-e-r-y', and 'EVER' hides inside.\n\nTechnique: write the sentence out, then sweep your eye across each pair of words, looking for a real four-letter word.",
+    "example": {
+      "question": "Find the hidden word in: \"We have a tame animal.\"",
+      "steps": [
+        "Look across each gap: we|have, have|a, a|tame, tame|animal.",
+        "\"tame|animal\" → t-a-m-e-a-n-i-m-a-l.",
+        "Sliding a 4-letter window: tame, amea, mean, eani, anim... \"MEAN\" appears!"
+      ],
+      "answer": "MEAN"
+    },
+    "tags": [
+      "verbal",
+      "hidden words"
+    ]
+  },
+  {
+    "id": "verbal-analogies",
+    "title": "Analogies",
+    "body": "Analogies show a relationship between two things and ask you to apply the same relationship to a new pair. 'Hot is to cold as fast is to ___'. Hot/cold are opposites, so the answer is the opposite of fast: slow.\n\nFigure out the relationship in words first ('opposite of', 'type of', 'used for', 'made of', 'part of') BEFORE looking at the options. Then test each option against that relationship.",
+    "example": {
+      "question": "Bird is to nest as bee is to ___?",
+      "steps": [
+        "Relationship: \"lives in\".",
+        "A bird lives in a nest; a bee lives in a... hive."
+      ],
+      "answer": "hive"
+    },
+    "tags": [
+      "verbal",
+      "analogies"
+    ]
+  },
+  {
+    "id": "nonverbal-sequences",
+    "title": "Shape sequences",
+    "body": "Sequence questions ask 'what comes next?'. The change might be in size, shape (number of sides), shading, rotation, or position of an inner element.\n\nLook at ONE attribute at a time. Does the shape change? Does shading flip? Does an arrow rotate by the same amount each step? Once you spot the rule, predict the next step.",
+    "example": {
+      "question": "Triangle, square, pentagon, ?",
+      "steps": [
+        "Count sides: 3, 4, 5.",
+        "Each step adds one side.",
+        "Next has 6 sides — a hexagon."
+      ],
+      "answer": "hexagon"
+    },
+    "tags": [
+      "nonverbal",
+      "sequences"
+    ]
+  },
+  {
+    "id": "nonverbal-rotations",
+    "title": "Rotations",
+    "body": "Rotation turns a shape around its centre. 90° clockwise: the top moves to the right. 180°: everything ends up upside-down. 90° anti-clockwise: the top moves to the left.\n\nTrick: pick ONE feature (a marked corner, an arrowhead) and track where it ends up after the rotation. If you can place that one feature correctly, the rest of the shape follows.",
+    "example": {
+      "question": "An arrow points up. Rotate 90° clockwise. Where does it point now?",
+      "steps": [
+        "Top goes to the right after 90° clockwise."
+      ],
+      "answer": "right"
+    },
+    "tags": [
+      "nonverbal",
+      "rotations"
+    ]
+  },
+  {
+    "id": "nonverbal-reflections",
+    "title": "Reflections",
+    "body": "Reflection flips a shape across a mirror line. After a reflection, the shape is the same distance from the mirror on the OTHER side.\n\nVertical mirror (up-down line): left and right swap. Horizontal mirror (across line): top and bottom swap.\n\nA reflected shape is the MIRROR of the original — not the same as a rotation. The letter 'b' reflected vertically becomes 'd', not 'q'.",
+    "example": {
+      "question": "An arrow points right. Reflect it in a vertical mirror.",
+      "steps": [
+        "Vertical mirror swaps left and right.",
+        "Arrow that pointed right now points left."
+      ],
+      "answer": "left"
+    },
+    "tags": [
+      "nonverbal",
+      "reflections"
+    ]
+  }
+]

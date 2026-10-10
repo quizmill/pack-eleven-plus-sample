@@ -1,0 +1,59 @@
+name: Deploy
+
+# Build this pack into a static app and publish it to Cloudflare Pages
+# (project `eleven-plus-practice` → eleven-plus.quizmill.dev). Owns the
+# triggers + secrets; the build/deploy recipe lives in the engine
+# (quizmill/quizmill/.github/workflows/deploy-pack.yml) so every pack app
+# builds and deploys identically.
+#
+# Required repo (or org) secrets:
+#   CLOUDFLARE_API_TOKEN    token with "Cloudflare Pages — Edit"
+#   CLOUDFLARE_ACCOUNT_ID   the quizmill Cloudflare account id
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'pack.json'
+      - 'questions.json'
+      - 'scenarios.json'
+      - 'concepts.json'
+      - 'assets/**'
+      - '.github/workflows/deploy.yml'
+  workflow_dispatch:
+  # Engine releases fan out a dispatch carrying the just-published version
+  # so the app rebuilds on the new engine without waiting for the daily cron.
+  repository_dispatch:
+    types: [engine-release]
+  schedule:
+    - cron: '23 6 * * *' # 06:23 UTC daily — safety net for missed dispatches
+
+jobs:
+  # Create the Cloudflare Pages project on first run — `wrangler pages
+  # deploy` does not auto-create it. Idempotent: a no-op once it exists.
+  ensure-project:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ensure Pages project exists
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          npx --yes wrangler@4 pages project create eleven-plus-practice \
+            --production-branch=main \
+          || echo "project already exists (or create skipped) — continuing"
+
+  deploy:
+    needs: ensure-project
+    uses: quizmill/quizmill/.github/workflows/deploy-pack.yml@main
+    with:
+      project: eleven-plus-practice
+      # The app dir follows the manifest id (`<id>-app`, see `quizmill build`).
+      app: eleven-plus-practice-app
+      pack: '.'
+      engine: ${{ github.event.client_payload.version || 'latest' }}
+      # Anonymous funnel beacon (six events, random device id, off switch in
+      # Settings) -> the sync worker's analytics route. Public by design.
+      analytics_url: https://sync.quizmill.dev/v1/analytics
+      privacy_url: https://quizmill.dev/privacy
+    secrets: inherit

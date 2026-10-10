@@ -1,0 +1,980 @@
+[
+  {
+    "id": "english-003",
+    "categoryKey": "english",
+    "level": "y4",
+    "difficulty": 2,
+    "prompt": "In the sentence \"The clever fox jumped over the fence\", which word is an adjective?",
+    "options": [
+      {
+        "key": "A",
+        "text": "fox"
+      },
+      {
+        "key": "B",
+        "text": "clever"
+      },
+      {
+        "key": "C",
+        "text": "jumped"
+      },
+      {
+        "key": "D",
+        "text": "over"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "An adjective describes a noun. \"Clever\" describes the noun \"fox\", so it is the adjective.",
+    "source": "generated",
+    "sourceRef": "KS2 national curriculum (England): English — grammar",
+    "reviewStatus": "reviewed",
+    "tags": [
+      "grammar"
+    ],
+    "conceptId": "english-grammar"
+  },
+  {
+    "id": "english-005",
+    "categoryKey": "english",
+    "level": "y4",
+    "difficulty": 2,
+    "prompt": "Which sentence uses the apostrophe correctly?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The dog's' bone was buried in the garden."
+      },
+      {
+        "key": "B",
+        "text": "The dog's bone was buried in the garden."
+      },
+      {
+        "key": "C",
+        "text": "The dogs bone was buried in the garden."
+      },
+      {
+        "key": "D",
+        "text": "The dogs' bone was buried in the garden."
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "There is one dog, and the bone belongs to it. For a singular owner, the apostrophe goes before the s: \"dog's\".",
+    "source": "generated",
+    "sourceRef": "KS2 national curriculum (England): English — punctuation",
+    "reviewStatus": "reviewed",
+    "tags": [
+      "punctuation"
+    ],
+    "conceptId": "english-punctuation"
+  },
+  {
+    "id": "english-006",
+    "categoryKey": "english",
+    "level": "y4",
+    "difficulty": 2,
+    "prompt": "Read the passage:\n\n\"Leah tiptoed across the floorboards, holding her breath. The wooden steps creaked beneath her feet, and she froze each time, hoping no one downstairs had heard.\"\n\nWhy did Leah freeze each time the steps creaked?",
+    "options": [
+      {
+        "key": "A",
+        "text": "She had forgotten something."
+      },
+      {
+        "key": "B",
+        "text": "She was cold."
+      },
+      {
+        "key": "C",
+        "text": "She didn't want to be discovered."
+      },
+      {
+        "key": "D",
+        "text": "She had hurt her foot."
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "The passage says she hoped \"no one downstairs had heard\" — she froze so the people below would not notice her.",
+    "source": "generated",
+    "sourceRef": "KS2 national curriculum (England): English — comprehension",
+    "reviewStatus": "reviewed",
+    "tags": [
+      "comprehension"
+    ],
+    "conceptId": "english-comprehension"
+  },
+  {
+    "id": "english-040",
+    "categoryKey": "english",
+    "level": "y5",
+    "difficulty": 2,
+    "prompt": "Which word is spelled correctly?",
+    "options": [
+      {
+        "key": "A",
+        "text": "seperete"
+      },
+      {
+        "key": "B",
+        "text": "seperate"
+      },
+      {
+        "key": "C",
+        "text": "separate"
+      },
+      {
+        "key": "D",
+        "text": "sepparate"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "\"Separate\" has an a in the middle, not an e. A common memory trick is \"there's a rat in separate\".",
+    "source": "generated",
+    "sourceRef": "KS2 national curriculum (England): English — spelling",
+    "reviewStatus": "reviewed",
+    "tags": [
+      "spelling"
+    ],
+    "conceptId": "english-spelling"
+  },
+  {
+    "id": "english-046",
+    "categoryKey": "english",
+    "level": "y5",
+    "difficulty": 3,
+    "prompt": "In the sentence \"The wolf gave a ferocious growl\", what does \"ferocious\" mean?",
+    "options": [
+      {
+        "key": "A",
+        "text": "quiet"
+      },
+      {
+        "key": "B",
+        "text": "fierce"
+      },
+      {
+        "key": "C",
+        "text": "friendly"
+      },
+      {
+        "key": "D",
+        "text": "distant"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "\"Ferocious\" means savagely fierce. The other words describe gentler or different qualities.",
+    "source": "generated",
+    "sourceRef": "KS2 national curriculum (England): English — vocabulary",
+    "reviewStatus": "reviewed",
+    "tags": [
+      "vocabulary"
+    ],
+    "conceptId": "english-vocabulary"
+  },
+  {
+    "id": "english-066",
+    "categoryKey": "english",
+    "level": "y6",
+    "difficulty": 4,
+    "prompt": "Read the passage:\n\n\"From the moment the bell rang, Noah had been counting the minutes. He answered Mrs Doyle's questions in clipped, polite sentences, but his pencil tapped a steady rhythm against the desk, and twice he glanced at the door as if expecting it to open.\"\n\nWhat does the writer suggest about Noah?",
+    "options": [
+      {
+        "key": "A",
+        "text": "He is annoyed with Mrs Doyle."
+      },
+      {
+        "key": "B",
+        "text": "He has forgotten the answer."
+      },
+      {
+        "key": "C",
+        "text": "He is unwell."
+      },
+      {
+        "key": "D",
+        "text": "He is impatient to leave."
+      }
+    ],
+    "correctKey": "D",
+    "explanation": "Counting the minutes, tapping his pencil and looking at the door all suggest impatience to leave, even though his answers stay polite.",
+    "source": "generated",
+    "sourceRef": "KS2 national curriculum (England): English — comprehension",
+    "reviewStatus": "reviewed",
+    "tags": [
+      "comprehension"
+    ],
+    "conceptId": "english-comprehension"
+  },
+  {
+    "id": "english-073",
+    "categoryKey": "english",
+    "level": "y6",
+    "difficulty": 4,
+    "prompt": "Which sentence uses the subjunctive form correctly?",
+    "options": [
+      {
+        "key": "A",
+        "text": "If I am you, I would apologise."
+      },
+      {
+        "key": "B",
+        "text": "If I be you, I would apologise."
+      },
+      {
+        "key": "C",
+        "text": "If I was you, I would apologise."
+      },
+      {
+        "key": "D",
+        "text": "If I were you, I would apologise."
+      }
+    ],
+    "correctKey": "D",
+    "explanation": "The subjunctive is used for hypothetical or imagined situations. With \"if I\" we use \"were\", not \"was\": \"If I were you...\".",
+    "source": "generated",
+    "sourceRef": "KS2 national curriculum (England): English — grammar",
+    "reviewStatus": "reviewed",
+    "tags": [
+      "grammar"
+    ],
+    "conceptId": "english-grammar"
+  },
+  {
+    "id": "maths-001",
+    "categoryKey": "maths",
+    "level": "y4",
+    "difficulty": 1,
+    "prompt": "What is the value of the digit 7 in the number 4,752?",
+    "options": [
+      {
+        "key": "A",
+        "text": "7"
+      },
+      {
+        "key": "B",
+        "text": "7,000"
+      },
+      {
+        "key": "C",
+        "text": "700"
+      },
+      {
+        "key": "D",
+        "text": "70"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "4,752 has digits in the columns thousands, hundreds, tens, ones. The 7 is in the hundreds column, so its value is 7 × 100 = 700.",
+    "source": "generated",
+    "sourceRef": "KS2 national curriculum (England): mathematics — place value",
+    "reviewStatus": "reviewed",
+    "tags": [
+      "place value"
+    ],
+    "conceptId": "maths-place-value"
+  },
+  {
+    "id": "maths-040",
+    "categoryKey": "maths",
+    "level": "y4",
+    "difficulty": 2,
+    "prompt": "What is 1/4 of 36?",
+    "options": [
+      {
+        "key": "A",
+        "text": "9"
+      },
+      {
+        "key": "B",
+        "text": "8"
+      },
+      {
+        "key": "C",
+        "text": "4"
+      },
+      {
+        "key": "D",
+        "text": "18"
+      }
+    ],
+    "correctKey": "A",
+    "explanation": "A quarter means divide by 4. 36 ÷ 4 = 9.",
+    "source": "generated",
+    "sourceRef": "KS2 national curriculum (England): mathematics — fractions",
+    "reviewStatus": "reviewed",
+    "tags": [
+      "fractions"
+    ],
+    "conceptId": "maths-fractions"
+  },
+  {
+    "id": "maths-006",
+    "categoryKey": "maths",
+    "level": "y5",
+    "difficulty": 2,
+    "prompt": "A film starts at 18:45 and lasts 1 hour and 35 minutes. What time does it finish?",
+    "options": [
+      {
+        "key": "A",
+        "text": "20:25"
+      },
+      {
+        "key": "B",
+        "text": "20:15"
+      },
+      {
+        "key": "C",
+        "text": "20:10"
+      },
+      {
+        "key": "D",
+        "text": "20:20"
+      }
+    ],
+    "correctKey": "D",
+    "explanation": "18:45 + 1 hour = 19:45. 19:45 + 35 minutes = 20:20 (15 minutes brings you to 20:00, then another 20 minutes).",
+    "source": "generated",
+    "sourceRef": "KS2 national curriculum (England): mathematics — time",
+    "reviewStatus": "reviewed",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "maths-086",
+    "categoryKey": "maths",
+    "level": "y5",
+    "difficulty": 3,
+    "prompt": "What is the range of these temperatures: −2°C, 5°C, 8°C, −1°C, 3°C?",
+    "options": [
+      {
+        "key": "A",
+        "text": "7°C"
+      },
+      {
+        "key": "B",
+        "text": "6°C"
+      },
+      {
+        "key": "C",
+        "text": "9°C"
+      },
+      {
+        "key": "D",
+        "text": "10°C"
+      }
+    ],
+    "correctKey": "D",
+    "explanation": "Range = largest − smallest. Largest is 8 and smallest is −2. 8 − (−2) = 10°C.",
+    "source": "generated",
+    "sourceRef": "KS2 national curriculum (England): mathematics — statistics",
+    "reviewStatus": "reviewed",
+    "tags": [
+      "statistics"
+    ]
+  },
+  {
+    "id": "maths-058",
+    "categoryKey": "maths",
+    "level": "y6",
+    "difficulty": 4,
+    "prompt": "In a class of 30 children, 12 wear glasses. What percentage wear glasses?",
+    "options": [
+      {
+        "key": "A",
+        "text": "24%"
+      },
+      {
+        "key": "B",
+        "text": "40%"
+      },
+      {
+        "key": "C",
+        "text": "12%"
+      },
+      {
+        "key": "D",
+        "text": "36%"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "12 out of 30 = 12/30 = 2/5. As a percentage, 2/5 = 40%.",
+    "source": "generated",
+    "sourceRef": "KS2 national curriculum (England): mathematics — percentages",
+    "reviewStatus": "reviewed",
+    "tags": [
+      "percentages"
+    ],
+    "conceptId": "maths-percentages"
+  },
+  {
+    "id": "maths-014",
+    "categoryKey": "maths",
+    "level": "y6",
+    "difficulty": 4,
+    "prompt": "Sweets are shared between Priya and Sam in the ratio 3 : 5. Sam gets 25 sweets. How many sweets are there altogether?",
+    "options": [
+      {
+        "key": "A",
+        "text": "40"
+      },
+      {
+        "key": "B",
+        "text": "50"
+      },
+      {
+        "key": "C",
+        "text": "35"
+      },
+      {
+        "key": "D",
+        "text": "45"
+      }
+    ],
+    "correctKey": "A",
+    "explanation": "Sam's 5 parts = 25 sweets, so 1 part = 5 sweets. Total parts = 3 + 5 = 8, so total sweets = 8 × 5 = 40.",
+    "source": "generated",
+    "sourceRef": "KS2 national curriculum (England): mathematics — ratio",
+    "reviewStatus": "reviewed",
+    "tags": [
+      "ratio"
+    ],
+    "conceptId": "maths-ratio"
+  },
+  {
+    "id": "maths-073",
+    "categoryKey": "maths",
+    "level": "y6",
+    "difficulty": 4,
+    "prompt": "Solve for x: 5x − 4 = 26.",
+    "options": [
+      {
+        "key": "A",
+        "text": "7"
+      },
+      {
+        "key": "B",
+        "text": "5"
+      },
+      {
+        "key": "C",
+        "text": "6"
+      },
+      {
+        "key": "D",
+        "text": "8"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "Add 4 to both sides: 5x = 30. Divide both sides by 5: x = 6.",
+    "source": "generated",
+    "sourceRef": "KS2 national curriculum (England): mathematics — algebra",
+    "reviewStatus": "reviewed",
+    "tags": [
+      "algebra"
+    ],
+    "conceptId": "maths-algebra"
+  },
+  {
+    "id": "verbal-002",
+    "categoryKey": "verbal",
+    "level": "y4",
+    "difficulty": 1,
+    "prompt": "Cat is to kitten as dog is to ___?",
+    "options": [
+      {
+        "key": "A",
+        "text": "cub"
+      },
+      {
+        "key": "B",
+        "text": "foal"
+      },
+      {
+        "key": "C",
+        "text": "puppy"
+      },
+      {
+        "key": "D",
+        "text": "calf"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "A baby cat is a kitten. The matching word for a baby dog is \"puppy\".",
+    "source": "generated",
+    "sourceRef": "KS2 national curriculum (England): verbal reasoning — analogies",
+    "reviewStatus": "reviewed",
+    "tags": [
+      "analogies"
+    ],
+    "conceptId": "verbal-analogies"
+  },
+  {
+    "id": "verbal-047",
+    "categoryKey": "verbal",
+    "level": "y4",
+    "difficulty": 1,
+    "prompt": "Which word is the odd one out?",
+    "options": [
+      {
+        "key": "A",
+        "text": "oak"
+      },
+      {
+        "key": "B",
+        "text": "rose"
+      },
+      {
+        "key": "C",
+        "text": "tulip"
+      },
+      {
+        "key": "D",
+        "text": "daisy"
+      }
+    ],
+    "correctKey": "A",
+    "explanation": "Rose, daisy and tulip are all flowers. An oak is a tree, so it is the odd one out.",
+    "source": "generated",
+    "sourceRef": "KS2 national curriculum (England): verbal reasoning — odd one out",
+    "reviewStatus": "reviewed",
+    "tags": [
+      "odd one out"
+    ]
+  },
+  {
+    "id": "verbal-057",
+    "categoryKey": "verbal",
+    "level": "y5",
+    "difficulty": 3,
+    "prompt": "Find the four-letter word hidden across the end of one word and the start of the next:\n\"She gave her a kind smile.\"",
+    "options": [
+      {
+        "key": "A",
+        "text": "mile"
+      },
+      {
+        "key": "B",
+        "text": "kind"
+      },
+      {
+        "key": "C",
+        "text": "gave"
+      },
+      {
+        "key": "D",
+        "text": "akin"
+      }
+    ],
+    "correctKey": "D",
+    "explanation": "Reading across the gap …|a kin|d smile…, the consecutive letters a-k-i-n spell \"akin\", meaning similar. \"Mile\" sits inside one word, not across two.",
+    "source": "generated",
+    "sourceRef": "KS2 national curriculum (England): verbal reasoning — hidden words",
+    "reviewStatus": "reviewed",
+    "tags": [
+      "hidden words"
+    ],
+    "conceptId": "verbal-hidden-words"
+  },
+  {
+    "id": "verbal-062",
+    "categoryKey": "verbal",
+    "level": "y5",
+    "difficulty": 2,
+    "prompt": "What letter comes next? A, D, G, J, ?",
+    "options": [
+      {
+        "key": "A",
+        "text": "L"
+      },
+      {
+        "key": "B",
+        "text": "K"
+      },
+      {
+        "key": "C",
+        "text": "N"
+      },
+      {
+        "key": "D",
+        "text": "M"
+      }
+    ],
+    "correctKey": "D",
+    "explanation": "Each step jumps forward by three letters (A→D, D→G, G→J). From J, three more lands on M (J→K→L→M).",
+    "source": "generated",
+    "sourceRef": "KS2 national curriculum (England): verbal reasoning — letter sequences",
+    "reviewStatus": "reviewed",
+    "tags": [
+      "letter sequences"
+    ]
+  },
+  {
+    "id": "verbal-075",
+    "categoryKey": "verbal",
+    "level": "y5",
+    "difficulty": 3,
+    "prompt": "If LION is written in code as NKQP, what is BEAR written as in the same code?",
+    "options": [
+      {
+        "key": "A",
+        "text": "DGCT"
+      },
+      {
+        "key": "B",
+        "text": "DGBT"
+      },
+      {
+        "key": "C",
+        "text": "CFBS"
+      },
+      {
+        "key": "D",
+        "text": "DFCT"
+      }
+    ],
+    "correctKey": "A",
+    "explanation": "Each letter is shifted two places forward (L→N, I→K, O→Q, N→P). Apply +2 to BEAR: B→D, E→G, A→C, R→T, giving DGCT.",
+    "source": "generated",
+    "sourceRef": "KS2 national curriculum (England): verbal reasoning — word codes",
+    "reviewStatus": "reviewed",
+    "tags": [
+      "word codes"
+    ]
+  },
+  {
+    "id": "verbal-082",
+    "categoryKey": "verbal",
+    "level": "y5",
+    "difficulty": 3,
+    "prompt": "Which word can go before both FLY and CUP to make compound words?",
+    "options": [
+      {
+        "key": "A",
+        "text": "house"
+      },
+      {
+        "key": "B",
+        "text": "tea"
+      },
+      {
+        "key": "C",
+        "text": "butter"
+      },
+      {
+        "key": "D",
+        "text": "water"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "\"Butter\" makes \"butterfly\" and \"buttercup\" (a yellow flower). The other words don't form a real compound with both FLY and CUP.",
+    "source": "generated",
+    "sourceRef": "KS2 national curriculum (England): verbal reasoning — compound words",
+    "reviewStatus": "reviewed",
+    "tags": [
+      "compound words"
+    ]
+  },
+  {
+    "id": "verbal-094",
+    "categoryKey": "verbal",
+    "level": "y6",
+    "difficulty": 5,
+    "prompt": "Five friends sit in a row of five seats. Eva is between Liam and Mia. Sam sits immediately to Liam's left. Theo sits immediately to Mia's right. Who is in the middle seat?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Liam"
+      },
+      {
+        "key": "B",
+        "text": "Eva"
+      },
+      {
+        "key": "C",
+        "text": "Mia"
+      },
+      {
+        "key": "D",
+        "text": "Sam"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Sam is on Liam's left and Theo is on Mia's right. Eva sits between Liam and Mia. Reading the row left-to-right: Sam, Liam, Eva, Mia, Theo. The middle (third) seat is Eva.",
+    "source": "generated",
+    "sourceRef": "KS2 national curriculum (England): verbal reasoning — logic",
+    "reviewStatus": "reviewed",
+    "tags": [
+      "logic"
+    ]
+  },
+  {
+    "id": "nonverbal-001",
+    "categoryKey": "nonverbal",
+    "level": "y4",
+    "difficulty": 1,
+    "prompt": "Which shape comes next in the sequence?",
+    "image": "nvr-001-q.svg",
+    "options": [
+      {
+        "key": "A",
+        "text": "Option A",
+        "image": "nvr-001-A.svg"
+      },
+      {
+        "key": "B",
+        "text": "Option B",
+        "image": "nvr-001-B.svg"
+      },
+      {
+        "key": "C",
+        "text": "Option C",
+        "image": "nvr-001-C.svg"
+      },
+      {
+        "key": "D",
+        "text": "Option D",
+        "image": "nvr-001-D.svg"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "The sequence alternates between a circle and a square. After square, circle, square, the next shape is a circle.",
+    "source": "generated",
+    "sourceRef": "KS2 national curriculum (England): non-verbal reasoning — sequences",
+    "reviewStatus": "reviewed",
+    "tags": [
+      "sequences"
+    ],
+    "conceptId": "nonverbal-sequences"
+  },
+  {
+    "id": "nonverbal-002",
+    "categoryKey": "nonverbal",
+    "level": "y4",
+    "difficulty": 1,
+    "prompt": "Which shape is the odd one out?",
+    "image": "nvr-002-q.svg",
+    "options": [
+      {
+        "key": "A",
+        "text": "Option A",
+        "image": "nvr-002-A.svg"
+      },
+      {
+        "key": "B",
+        "text": "Option B",
+        "image": "nvr-002-B.svg"
+      },
+      {
+        "key": "C",
+        "text": "Option C",
+        "image": "nvr-002-C.svg"
+      },
+      {
+        "key": "D",
+        "text": "Option D",
+        "image": "nvr-002-D.svg"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "Three of the shapes have four sides (squares/rectangles). The triangle has only three sides, so it is the odd one out.",
+    "source": "generated",
+    "sourceRef": "KS2 national curriculum (England): non-verbal reasoning — odd one out",
+    "reviewStatus": "reviewed",
+    "tags": [
+      "odd one out"
+    ]
+  },
+  {
+    "id": "nonverbal-003",
+    "categoryKey": "nonverbal",
+    "level": "y4",
+    "difficulty": 2,
+    "prompt": "The arrow at the top has been rotated. Which option shows the same arrow rotated 90° clockwise?",
+    "image": "nvr-003-q.svg",
+    "options": [
+      {
+        "key": "A",
+        "text": "Option A",
+        "image": "nvr-003-A.svg"
+      },
+      {
+        "key": "B",
+        "text": "Option B",
+        "image": "nvr-003-B.svg"
+      },
+      {
+        "key": "C",
+        "text": "Option C",
+        "image": "nvr-003-C.svg"
+      },
+      {
+        "key": "D",
+        "text": "Option D",
+        "image": "nvr-003-D.svg"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Rotating an arrow pointing up by 90° clockwise makes it point to the right.",
+    "source": "generated",
+    "sourceRef": "KS2 national curriculum (England): non-verbal reasoning — rotations",
+    "reviewStatus": "reviewed",
+    "tags": [
+      "rotations"
+    ],
+    "conceptId": "nonverbal-rotations"
+  },
+  {
+    "id": "nonverbal-005",
+    "categoryKey": "nonverbal",
+    "level": "y5",
+    "difficulty": 2,
+    "prompt": "Which option shows the shape on the left reflected in the dashed mirror line?",
+    "image": "nvr-005-q.svg",
+    "options": [
+      {
+        "key": "A",
+        "text": "Option A",
+        "image": "nvr-005-A.svg"
+      },
+      {
+        "key": "B",
+        "text": "Option B",
+        "image": "nvr-005-B.svg"
+      },
+      {
+        "key": "C",
+        "text": "Option C",
+        "image": "nvr-005-C.svg"
+      },
+      {
+        "key": "D",
+        "text": "Option D",
+        "image": "nvr-005-D.svg"
+      }
+    ],
+    "correctKey": "B",
+    "explanation": "Reflection flips the shape across the mirror. The L-shape pointing right becomes an L-shape pointing left, the same distance from the mirror.",
+    "source": "generated",
+    "sourceRef": "KS2 national curriculum (England): non-verbal reasoning — reflections",
+    "reviewStatus": "reviewed",
+    "tags": [
+      "reflections"
+    ],
+    "conceptId": "nonverbal-reflections"
+  },
+  {
+    "id": "nonverbal-007",
+    "categoryKey": "nonverbal",
+    "level": "y5",
+    "difficulty": 2,
+    "prompt": "A is to B as C is to ___? Pick the option that completes the pair.",
+    "image": "nvr-007-q.svg",
+    "options": [
+      {
+        "key": "A",
+        "text": "Option A",
+        "image": "nvr-007-A.svg"
+      },
+      {
+        "key": "B",
+        "text": "Option B",
+        "image": "nvr-007-B.svg"
+      },
+      {
+        "key": "C",
+        "text": "Option C",
+        "image": "nvr-007-C.svg"
+      },
+      {
+        "key": "D",
+        "text": "Option D",
+        "image": "nvr-007-D.svg"
+      }
+    ],
+    "correctKey": "A",
+    "explanation": "A → B doubles the shape (one circle becomes two). So C (one square) becomes two squares.",
+    "source": "generated",
+    "sourceRef": "KS2 national curriculum (England): non-verbal reasoning — analogies",
+    "reviewStatus": "reviewed",
+    "tags": [
+      "analogies"
+    ]
+  },
+  {
+    "id": "nonverbal-008",
+    "categoryKey": "nonverbal",
+    "level": "y5",
+    "difficulty": 3,
+    "prompt": "Which option shows the top shape rotated 180°?",
+    "image": "nvr-008-q.svg",
+    "options": [
+      {
+        "key": "A",
+        "text": "Option A",
+        "image": "nvr-008-A.svg"
+      },
+      {
+        "key": "B",
+        "text": "Option B",
+        "image": "nvr-008-B.svg"
+      },
+      {
+        "key": "C",
+        "text": "Option C",
+        "image": "nvr-008-C.svg"
+      },
+      {
+        "key": "D",
+        "text": "Option D",
+        "image": "nvr-008-D.svg"
+      }
+    ],
+    "correctKey": "C",
+    "explanation": "Rotating by 180° turns the shape upside-down. An arrow pointing up-and-right becomes an arrow pointing down-and-left.",
+    "source": "generated",
+    "sourceRef": "KS2 national curriculum (England): non-verbal reasoning — rotations",
+    "reviewStatus": "reviewed",
+    "tags": [
+      "rotations"
+    ],
+    "conceptId": "nonverbal-rotations"
+  },
+  {
+    "id": "nonverbal-009",
+    "categoryKey": "nonverbal",
+    "level": "y5",
+    "difficulty": 3,
+    "prompt": "Which shape comes next in the sequence?",
+    "image": "nvr-009-q.svg",
+    "options": [
+      {
+        "key": "A",
+        "text": "Option A",
+        "image": "nvr-009-A.svg"
+      },
+      {
+        "key": "B",
+        "text": "Option B",
+        "image": "nvr-009-B.svg"
+      },
+      {
+        "key": "C",
+        "text": "Option C",
+        "image": "nvr-009-C.svg"
+      },
+      {
+        "key": "D",
+        "text": "Option D",
+        "image": "nvr-009-D.svg"
+      }
+    ],
+    "correctKey": "D",
+    "explanation": "The dot moves one corner clockwise each step. After top-left, top-right, bottom-right, the next position is bottom-left.",
+    "source": "generated",
+    "sourceRef": "KS2 national curriculum (England): non-verbal reasoning — sequences",
+    "reviewStatus": "reviewed",
+    "tags": [
+      "sequences"
+    ],
+    "conceptId": "nonverbal-sequences"
+  }
+]

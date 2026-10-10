@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 2,
+  "id": "eleven-plus-practice",
+  "title": "11+ Practice",
+  "description": "11+ practice — English, maths, verbal and non-verbal reasoning for Years 4 to 6, with worked explanations. A 28-question sample; the app's upgrade card links to the full bank.",
+  "homeSubtitle": "Let's keep going.",
+  "themeColor": "#3b78e0",
+  "look": "poster",
+  "categories": [
+    {
+      "key": "english",
+      "label": "English",
+      "shortLabel": "English",
+      "icon": "📚"
+    },
+    {
+      "key": "maths",
+      "label": "Maths",
+      "shortLabel": "Maths",
+      "icon": "🔢"
+    },
+    {
+      "key": "verbal",
+      "label": "Verbal Reasoning",
+      "shortLabel": "Verbal",
+      "icon": "🔤"
+    },
+    {
+      "key": "nonverbal",
+      "label": "Non-Verbal Reasoning",
+      "shortLabel": "Non-Verbal",
+      "icon": "🔷"
+    }
+  ],
+  "levelsLabel": "Year",
+  "levels": [
+    {
+      "key": "y4",
+      "label": "Year 4"
+    },
+    {
+      "key": "y5",
+      "label": "Year 5"
+    },
+    {
+      "key": "y6",
+      "label": "Year 6"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Original",
+      "name": "Written for this pack",
+      "blurb": "Original questions written and checked for this pack, following the KS2 national curriculum and the four 11+ subject areas. No exam-board or publisher material."
+    }
+  ],
+  "games": {},
+  "upgrade": {
+    "title": "Get the full bank",
+    "url": "https://quizmill.gumroad.com/l/eleven-plus",
+    "price": "£5",
+    "blurb": "This app is a 28-question sample. The full bank has all 380 questions across the same four subjects and three year groups, as one file you insert at /packs."
+  }
+}
